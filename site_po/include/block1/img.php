@@ -1,0 +1,1 @@
+<img src="<?=SITE_TEMPLATE_PATH?>/images/browsers.png" class="width-100 padding-top-50 wow bounceInUp" data-wow-delay="2.5s">

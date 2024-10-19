@@ -1,0 +1,8 @@
+<?
+$MESS["PORTFOLIO_TAB_NAME"] = "Работа";
+$MESS["PORTFOLIO_FIELD_ACTIVE"] = "Активность";
+$MESS["PORTFOLIO_FIELD_NAME"] = "Название";
+$MESS["PORTFOLIO_FIELD_SORT"] = "Сортировка";
+$MESS["PORTFOLIO_FIELD_PREVIEW_PICTURE"] = "Картинка";
+$MESS["PORTFOLIO_FIELD_PREVIEW_TEXT"] = "Описание";
+?>
